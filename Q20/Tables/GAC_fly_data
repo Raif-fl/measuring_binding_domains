@@ -1,5 +1,5 @@
-,Sample,Mean GAC Frequency,Fraction of Non-downregulated above mean
-0,Fly Downregulated Short,0.01338013023766347,
-1,Fly Non-downregulated Short,0.012896536662085338,0.430221917181423
-2,Fly Downregulated Long,0.014358785515420113,
-3,Fly Non-downregulated Long,0.013887864207534783,0.3826530612244898
+Sample,Mean GAC Frequency,Fraction of Non-downregulated above mean,P values
+Upregulated,0.013215503207239993,,
+Non-upregulated Short,0.013185639945048159,0.4814574314574315,0.470996
+Downregulated,0.014004395893403288,,
+Non-downregulated,0.013179945513135428,0.3957717006999062,0.021737

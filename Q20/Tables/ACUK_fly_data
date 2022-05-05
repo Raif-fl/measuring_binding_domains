@@ -1,5 +1,5 @@
-,Sample,Mean ACUK Frequency,Fraction of Non-downregulated above mean
-0,Fly Downregulated Short,0.007377116666214253,
-1,Fly Non-downregulated Short,0.008008054750087142,0.555708075955159
-2,Fly Downregulated Long,0.008215419678157232,
-3,Fly Non-downregulated Long,0.007495230869114892,0.3227040816326531
+Sample,Mean ACUK Frequency,Fraction of Non-downregulated above mean,P values
+Upregulated,0.008200634406871016,,
+Non-upregulated Short,0.00789182951454742,0.4217171717171717,0.140487
+Downregulated,0.007677932331959903,,
+Non-downregulated,0.007895578804005444,0.5046540154412296,0.777466

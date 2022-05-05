@@ -1,5 +1,5 @@
-,Sample,Mean WGGA Frequency,Fraction of Non-downregulated above mean
-0,Mouse Downregulated Short,0.014493327699295637,
-1,Mouse Non-downregulated Short,0.013003493249846213,0.32112429333545667
-2,Mouse Downregulated Long,0.014784531888038435,
-3,Mouse Non-downregulated Long,0.015396569507563186,0.5116279069767442
+Sample,Mean WGGA Frequency,Fraction of Non-downregulated above mean,P values
+Upregulated,0.01317095907851901,,
+Non-upregulated Short,0.013537886705265111,0.5133830845771145,0.821494
+Downregulated,0.014887454340523545,,
+Non-downregulated,0.013529770058025015,0.3268341208654564,0.000447

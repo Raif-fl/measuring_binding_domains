@@ -1,5 +1,5 @@
-,Sample,Mean WGGA Frequency,Fraction of Non-downregulated above mean
-0,Fly Downregulated Short,0.010942228233557883,
-1,Fly Non-downregulated Short,0.012288204230221991,0.5893388240677191
-2,Fly Downregulated Long,0.01424269557181702,
-3,Fly Non-downregulated Long,0.013331515793940783,0.34438775510204084
+Sample,Mean WGGA Frequency,Fraction of Non-downregulated above mean,P values
+Upregulated,0.013501229851365912,,
+Non-upregulated Short,0.012552443557652651,0.38463203463203466,0.012249
+Downregulated,0.012914517194504219,,
+Non-downregulated,0.01255660853920922,0.44339418428458044,0.196928

@@ -1,5 +1,5 @@
-,Sample,Mean TTTT Frequency,Fraction of Non-downregulated above mean
-0,Fly Downregulated Short,0.004335927354119387,
-1,Fly Non-downregulated Short,0.004690545385875267,0.4750629146648364
-2,Fly Downregulated Long,0.0026932309927864893,
-3,Fly Non-downregulated Long,0.0029257018523862507,0.5025510204081632
+Sample,Mean TTTT Frequency,Fraction of Non-downregulated above mean,P values
+Upregulated,0.004569406163002202,,
+Non-upregulated Short,0.004282803017331606,0.3739538239538239,0.155612
+Downregulated,0.0033029369986959517,,
+Non-downregulated,0.004291920580884889,0.5862616350386031,0.999778

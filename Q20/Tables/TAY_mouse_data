@@ -1,5 +1,5 @@
-,Sample,Mean TAY Frequency,Fraction of Non-downregulated above mean
-0,Mouse Downregulated Short,0.016969619009723318,
-1,Mouse Non-downregulated Short,0.021647047193729594,0.6707540409268253
-2,Mouse Downregulated Long,0.016250418028916323,
-3,Mouse Non-downregulated Long,0.019009982675701427,0.6627906976744186
+Sample,Mean TAY Frequency,Fraction of Non-downregulated above mean,P values
+Upregulated,0.02117115221800831,,
+Non-upregulated Short,0.021081798866756294,0.43651741293532337,0.454644
+Downregulated,0.016114674082097023,,
+Non-downregulated,0.021105462418685265,0.7091768216861477,1.0
